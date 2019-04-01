@@ -24,6 +24,7 @@ Senior Java engineer interview exams in 2019
     
     答案: 1官方集群，2主从模式，3，用zookeeper保存redis实例的ip+端口;
 
+<hr/>
 
 * 杭州盈火网络科技有限公司
 
