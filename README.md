@@ -24,6 +24,7 @@ Senior Java engineer interview exams in 2019
     
     答案: 1官方集群，2主从模式，3，用zookeeper保存redis实例的ip+端口;
 
+
 * 杭州盈火网络科技有限公司
 
     年终奖2到3个月
@@ -38,9 +39,11 @@ Senior Java engineer interview exams in 2019
     
     答案: 一致性hash,Raft算法
 
+
 * 杭州连连支付
 
     两个经理没有问太多细节，可能他们是主管，都不是写代码的。 只问了下项目宏观的问题。感觉并不是真的招人。
+
 
 * 杭银消费金融
 
@@ -77,6 +80,7 @@ Senior Java engineer interview exams in 2019
 * 钱兔网络
 
     面试官没有问技术问题。都是写宏观的问题。
+
 
 * 海康威视-仓储管理部
 
@@ -124,6 +128,7 @@ Senior Java engineer interview exams in 2019
     然后在自己的组件包中定义一个用@Configuration来定义的类，还有Configure对应的bean
     想情见[https://github.com/liushaoming/jframe](https://github.com/liushaoming/jframe) 里
     的<code>jframe-spring-boot-starter</code>
+
 
 
 ## 更多Java面试题
