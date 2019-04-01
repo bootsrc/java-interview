@@ -40,16 +40,19 @@ Senior Java engineer interview exams in 2019
     
     答案: 一致性hash,Raft算法
 
+<hr/>
 
 * 杭州连连支付
 
     两个经理没有问太多细节，可能他们是主管，都不是写代码的。 只问了下项目宏观的问题。感觉并不是真的招人。
 
+<hr/>
 
 * 杭银消费金融
 
     * 全表扫描的坏处。除了这个查询本身速度慢，还会产生哪些别的坏处？
 
+<hr/>
 
 * 税友
 
@@ -66,6 +69,7 @@ Senior Java engineer interview exams in 2019
     * Nginx怎么做限流配置
     可以网上查答案，是常规配置
     
+<hr/>
 
 * 浙江大华
 
@@ -77,20 +81,23 @@ Senior Java engineer interview exams in 2019
     
     * mysql的master与keepalived怎么做HA方案
 
+<hr/>
 
 * 钱兔网络
 
     面试官没有问技术问题。都是写宏观的问题。
 
+<hr/>
 
 * 海康威视-仓储管理部
 
-    *索引的分类有哪几种？
+    * 索引的分类有哪几种？
     
     innerdb只有两种索引：btree和fulltext)
     
     * sql语句的优化策略
     
+<hr/>
 
 * 传化智联
 
@@ -114,6 +121,8 @@ Senior Java engineer interview exams in 2019
     
     答案：用用了jdk的动态代理机制，比如InvocationHandler+Proxy
     
+    
+ <hr/>
     
 * 挖财
 
