@@ -9,9 +9,14 @@ Senior Java engineer interview exams in 2019
 ### 面试时间2019-03
 
 * 呆萝卜
+
+    * 1万并发量的秒杀系统怎么实现？
+    
+    答案: 参考开源项目jseckill [https://github.com/liushaoming/jseckill](https://github.com/liushaoming/jseckill)
+    
     * mq集群怎么保证保数据的串行处理
     
-    答案:mq本身的集群可以保证串行的
+    答案: mq本身的集群可以保证串行的
     或者镜像模式，更好
     如果调用mq的应用程序本身是集群部署的，则只能保证基本串行处理，另外如果需要一个个地处理数据，需要加上分布式锁。
     
