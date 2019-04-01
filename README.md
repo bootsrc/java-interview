@@ -13,6 +13,7 @@ Senior Java engineer interview exams in 2019
     
     答案:mq本身的集群可以保证串行的
     或者镜像模式，更好
+    如果调用mq的应用程序本身是集群部署的，则只能保证基本串行处理，另外如果需要一个个地处理数据，需要加上分布式锁。
     
     * zookeeper有哪些角色?
     
