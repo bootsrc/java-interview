@@ -145,7 +145,17 @@ Senior Java engineer interview exams in 2019
     想情见[https://github.com/liushaoming/jframe](https://github.com/liushaoming/jframe) 里
     的<code>jframe-spring-boot-starter</code>
 
+<hr/>
 
+* 自己查漏补缺
+
+    * sql遗漏知识点
+    
+    答案: exists与in的区别和各自的应用场景是什么？    having的作用是什么？
+    truncate与delete的区别.
+    Oracle的over(), partition by的使用。partition by与group by的区别。
+    
+  
 
 ## 更多Java面试题
 
