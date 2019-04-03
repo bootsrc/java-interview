@@ -162,9 +162,9 @@ Senior Java engineer interview exams in 2019
 * 京东金融
 
     * Java基础
-     1. 泛型，用过泛型吗， 泛型的原理
-     2. 封装继承多态你是怎么理解的
-     3. hashCode()和equals()方法可以只写一个吗？只写一个有什么问题
+     - 泛型，用过泛型吗， 泛型的原理
+     - 封装继承多态你是怎么理解的
+     - hashCode()和equals()方法可以只写一个吗？只写一个有什么问题
     * 多线程
      future在什么场景下使用？
     * 数据库
