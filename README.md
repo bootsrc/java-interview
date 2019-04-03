@@ -155,7 +155,30 @@ Senior Java engineer interview exams in 2019
     truncate与delete的区别.
     Oracle的over(), partition by的使用。partition by与group by的区别。
     
-  
+
+
+<hr/>
+
+* 京东金融
+
+    * Java基础
+     1. 泛型，用过泛型吗， 泛型的原理
+     2. 封装继承多态你是怎么理解的
+     3. hashCode()和equals()方法可以只写一个吗？只写一个有什么问题
+    * 多线程
+     future在什么场景下使用？
+    * 数据库
+      数据库用的什么,mysql， 联合索引的有效性，创建一个含有3个字段的索引(A,B,C), where A 有效吗？ where A and B 有效吗？。。。
+    * 框架
+      Spring-cloud如何保证幂等性？
+    * 设计模式
+      写一下几种单例模式， 饿汉式，懒汉式，有没有线程安全的问题；
+    * 算法
+      写一个熟悉的排序算法 
+    
+
+
+
 
 ## 更多Java面试题
 
