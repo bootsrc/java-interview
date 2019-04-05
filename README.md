@@ -62,10 +62,8 @@ Senior Java engineer interview exams in 2019
 
 * 税友
 
-    * Dubbo多个服务实例（比如3个），如果出错了。怎么知道是哪一个实例出的错误.也就是需要跟踪服务的调用过程。
-    
-    答案：面试官说他们采用的是goole的什么框架。我觉得这个不是答案，需要答出实现原理，才有意义。
-    
+    * [Dubbo服务间调用（A -> B -> C, A，B和C都是多实例集群）,如何跟踪调用过程,并确定调用的是哪个实例](readme/call-chain.md)
+        
     * 在读redis的并发量特别大的时候（比如达到10万qps），应该怎么做？
     答案：做读写分离。master-slave.
 
