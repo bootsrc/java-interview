@@ -7,3 +7,6 @@
 其中consol对集群成员对管理使用了 去中心化服务对的serf库
 
 [serf 中去中心化系统的原理和实现](https://www.infoq.cn/article/principle-and-impleme-of-de-centering-system-in-serf)
+
+
+[分布式一致性之Raft算法](https://blog.csdn.net/u012422829/article/details/77802749)
