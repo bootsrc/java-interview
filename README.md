@@ -24,11 +24,10 @@ Senior Java engineer interview exams in 2019
     
     答案: 三种(leader, follower, observer)
     
-    * zookeeper选举机制是怎么样的?
+    * [zookeeper选举机制](https://www.linuxidc.com/Linux/2018-09/154117.htm)
 
-    * Redis集群方式有哪几种?
-    
-    答案: 1官方集群，2主从模式，3，用zookeeper保存redis实例的ip+端口;
+    * [Redis集群方式有哪几种](readme/redis-cluster-strategies.md)
+ 
 
 <hr/>
 
