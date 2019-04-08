@@ -19,13 +19,13 @@ Senior Java engineer interview exams in 2019
     * [zookeeper选举机制](https://www.linuxidc.com/Linux/2018-09/154117.htm)
 
     * [Redis集群方式有哪几种](readme/redis-cluster-strategies.md)
- 
+
 
 <hr/>
 
 * 杭州盈火网络科技有限公司
 
-    * Consul集群原理（同步元数据）
+    * [Consul集群原理](readme/consul-cluster-principle.md)
     
     * 多线程提高并发的手段
     
