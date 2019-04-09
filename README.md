@@ -27,9 +27,7 @@ Senior Java engineer interview exams in 2019
 
     * [Consul集群原理](readme/consul-cluster-principle.md)
     
-    * 多线程提高并发的手段
-    
-    除了mq. 线程池，还有什么办法？
+    * [多线程环境提高并发性能的手段](readme/improve-concurrency.md)
     
     * 分布式系统有哪些常用的算法？(至少说出2种)
     
@@ -45,7 +43,7 @@ Senior Java engineer interview exams in 2019
 
 * 杭银消费金融
 
-    * 全表扫描的坏处。除了这个查询本身速度慢，还会产生哪些别的坏处？
+    * [SQL全表扫描有什么坏处，什么情况会导致全表扫描](readme/full-table-scan.md)
 
 <hr/>
 
