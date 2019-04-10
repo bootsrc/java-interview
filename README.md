@@ -19,6 +19,8 @@ Senior Java engineer interview exams in 2019
     * [zookeeper选举机制](https://www.linuxidc.com/Linux/2018-09/154117.htm)
 
     * [Redis集群方式有哪几种](readme/redis-cluster-strategies.md)
+    
+    * [如何排查Java的CPU性能问题-CPU100%占用](readme/cpu100percent.md)
 
 
 <hr/>
