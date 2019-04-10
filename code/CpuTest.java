@@ -4,10 +4,10 @@ public class CpuTest {
 
         while (true) {
             i++;
-//            if (i == Integer.MAX_VALUE) {
-////                System.out.println("--reset---");
-//                i = 0;
-//            }
+            if (i == Integer.MAX_VALUE) {
+//                System.out.println("--reset---");
+                i = 0;
+            }
         }
 
     }
