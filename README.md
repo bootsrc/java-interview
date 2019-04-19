@@ -31,6 +31,8 @@ Senior Java engineer interview exams in 2019
     
     * [多线程环境提高并发性能的手段](readme/improve-concurrency.md)
     
+    * [JVM垃圾收集器算法](readme/gc.md)
+    
     * 分布式系统有哪些常用的算法？(至少说出2种)
     
     答案: 一致性hash,Raft算法
