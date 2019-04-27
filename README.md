@@ -144,7 +144,7 @@ Senior Java engineer interview exams in 2019
     truncate与delete的区别.
     Oracle的over(), partition by的使用。partition by与group by的区别。
     
-
+    * valotile关键字有什么作用
 
 <hr/>
 
@@ -164,6 +164,24 @@ Senior Java engineer interview exams in 2019
       写一下几种单例模式， 饿汉式，懒汉式，有没有线程安全的问题；
     * 算法
       写一个熟悉的排序算法 
+      
+* 小牛互娱
+
+  * [volatile的功能和作用](readme/volatile.md)
+
+  * Dubbo服务注册和调用原理
+
+  * FixedThreadPool与CachedThreadPool的区别,内部使用的是什么队列
+
+  * JDK中的公平锁和非公平锁
+  
+  答案 ： new ReentrantLock(true)得到的是公平锁，内部对未获取到锁的线程进行排队
+  
+  new ReentrantLock(false)得到的非公平锁。 首先基于CAS操作（CAS都是非公平的），如果抢到来。就锁定成功，否则进入排队。成为非公平锁。
+    
+  * finalize()方法是什么
+  
+  答案： finalize()方式是Object内置的方法，在JVM GC操作前会回调的。
     
 * 某知名互联网公司
 ```text
