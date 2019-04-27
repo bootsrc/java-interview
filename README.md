@@ -165,6 +165,8 @@ Senior Java engineer interview exams in 2019
     * 算法
       写一个熟悉的排序算法 
       
+<hr/>
+     
 * 小牛互娱
 
   * [volatile的功能和作用](readme/volatile.md)
@@ -183,7 +185,7 @@ Senior Java engineer interview exams in 2019
   
   答案： finalize()方式是Object内置的方法，在JVM GC操作前会回调的。
     
-  <hr/>
+<hr/>
   
 * 某知名互联网公司
 
