@@ -1,13 +1,13 @@
 # FixedThreadPool与CachedThreadPool的区别,内部使用的是什么队列
 
-直接贴源码
+写下测试代码
 ```java
 ExecutorService cachedThreadPool = Executors.newCachedThreadPool();
 ExecutorService fixedThreadPool = Executors.newFixedThreadPool(3);
 ExecutorService scheduled = Executors.newScheduledThreadPool(3);
 
 ```
-查看下源码
+查看下几个构造方法的源码
 ```java
 
 /**
