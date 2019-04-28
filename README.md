@@ -166,6 +166,12 @@ Senior Java engineer interview exams in 2019
       写一个熟悉的排序算法 
       
 <hr/>
+
+* 上海品上生活电子商务有限公司
+
+  * [mysql怎么查看查询有没有应用索引成功（关键字explain）](readme/index-explain.md)
+  
+<hr/>
      
 * 小牛互娱
 
