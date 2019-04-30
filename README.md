@@ -252,6 +252,14 @@ String s = " z111,c888,n222,,,g000, t333,a999,c888 ,p000 ,z111 ";
 
 ```
 
+* 上海票牛网（感觉问的问题是最难的公司）
+
+  *1.[Spring bean依赖注入的时候怎么解决bean之间的循环引用问题](https://www.cnblogs.com/bhlsheji/p/5208076.html)
+
+  *2.如何自己去实现一个WEB框架，怎么实现类似于SpringMVC里的@RequestMapping
+  
+* 拍拍贷
+  * [使用HashMap的时候如何避免内存泄漏](readme/)
 
 ## 更多Java面试题
 
