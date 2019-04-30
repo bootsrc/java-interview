@@ -138,14 +138,19 @@ Senior Java engineer interview exams in 2019
 
 * 自己查漏补缺
 
-    * sql遗漏知识点
-    
-    答案: exists与in的区别和各自的应用场景是什么？    having的作用是什么？
-    truncate与delete的区别.
-    Oracle的over(), partition by的使用。partition by与group by的区别。
-    
-    * valotile关键字有什么作用
+  * [微服务调用超时的处理方案](readme/call-timeout-process.md)
 
+  * sql遗漏知识点
+
+  答案: exists与in的区别和各自的应用场景是什么？    having的作用是什么？
+  truncate与delete的区别.
+  Oracle的over(), partition by的使用。partition by与group by的区别。
+
+  * valotile关键字有什么作用
+
+  * duboo或者spring cloud微服务调用超时应该怎么处理
+    
+    
 <hr/>
 
 * 京东金融
@@ -256,10 +261,10 @@ String s = " z111,c888,n222,,,g000, t333,a999,c888 ,p000 ,z111 ";
 
   *1.[Spring bean依赖注入的时候怎么解决bean之间的循环引用问题](https://www.cnblogs.com/bhlsheji/p/5208076.html)
 
-  *2.如何自己去实现一个WEB框架，怎么实现类似于SpringMVC里的@RequestMapping
+  *2.如何自己去实现一个WEB框架，怎么实现类似于SpringMVC里的@RequestMapping,用什么匹配算法速度最快
   
 * 拍拍贷
-  * [使用HashMap的时候如何避免内存泄漏](readme/)
+  * [使用HashMap的时候如何避免内存泄漏](readme/hashmap-memory-leak.md)
 
 ## 更多Java面试题
 

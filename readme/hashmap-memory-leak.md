@@ -1,6 +1,6 @@
 # 使用HashMap的时候如何避免内存泄漏
 
-当Key为复杂类型（自定义对象)的时候，如果map.put(obj, value)后
+当HashMap的Key为复杂类型（自定义对象)的时候，如果map.put(obj, value)后
 如果修改了obj中的某些字段值，而且这这个字段会导致obj.hashCode()发送变化的。就必定导致内存泄漏。
 因为Node数据的存放地址没变，但是里面的key变了。 
 
