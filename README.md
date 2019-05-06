@@ -8,6 +8,9 @@ Senior Java engineer interview exams in 2019
 
 ### 面试题来自本人的程序员朋友面试经历，经本人和开源爱好者汇总
 
+* 互联网大厂常考编程题
+  * [Hot!大厂常考编程题，点击进入](readme/pop-exam.md)
+
 * 拍拍贷
   * [使用HashMap的时候如何避免内存泄漏](readme/hashmap-memory-leak.md)
   
@@ -214,8 +217,9 @@ String s = " z111,c888,n222,,,g000, t333,a999,c888 ,p000 ,z111 ";
   * valotile关键字有什么作用
 
   * duboo或者spring cloud微服务调用超时应该怎么处理
-    
-    
+  
+  * sql注入与防止sql注入的方法
+  
 <hr/>
 
 * 京东金融
@@ -269,7 +273,11 @@ String s = " z111,c888,n222,,,g000, t333,a999,c888 ,p000 ,z111 ";
 
   *2.如何自己去实现一个WEB框架，怎么实现类似于SpringMVC里的@RequestMapping,用什么匹配算法速度最快
   
-
+* 蚂蚁金服
+  * 什么是对称加密和非对称加密
+ 
+ 
+ 
 ## 更多Java面试题
 
 部分题目的答案和实例代码在陆续整理中，你们也可以贡献你们的答案。
