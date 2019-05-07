@@ -1,6 +1,6 @@
 # 互联网大厂常考编程题
 
-1.eentrantLock-Condition实现三个线程交替打印1-75
+1.ReentrantLock-Condition实现三个线程交替打印1-75
 
 比如结果
 ```text
