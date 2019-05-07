@@ -9,7 +9,7 @@ Senior Java engineer interview exams in 2019
 ### 面试题来自本人的程序员朋友面试经历，经本人和开源爱好者汇总
 
 * 互联网大厂常考编程题
-  * [Hot!大厂常考编程题，点击进入](readme/pop-exam.md)
+  * [Hot!大厂常考编程题，点击进入](examset/README.md)
 
 * 拍拍贷
   * [使用HashMap的时候如何避免内存泄漏](readme/hashmap-memory-leak.md)
@@ -207,6 +207,8 @@ String s = " z111,c888,n222,,,g000, t333,a999,c888 ,p000 ,z111 ";
 * 自己查漏补缺
 
   * [微服务调用超时的处理方案](readme/call-timeout-process.md)
+  
+  * [设计模式六大原则](/readme/design-pattern-principle.md)
 
   * sql遗漏知识点
 
@@ -276,7 +278,7 @@ String s = " z111,c888,n222,,,g000, t333,a999,c888 ,p000 ,z111 ";
 * 蚂蚁金服
   * 什么是对称加密和非对称加密
  
- 
+
  
 ## 更多Java面试题
 
