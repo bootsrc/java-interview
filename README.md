@@ -4,6 +4,10 @@ Senior Java engineer interview exams in 2019
 
 高级Java工程师面试题2019
 
+## 资深Java工程师复习计划
+
+[资深Java工程师复习计划-2019](readme/study2019.md)
+
 ## 面试题目
 
 ### 面试题来自本人的程序员朋友面试经历，经本人和开源爱好者汇总
@@ -209,6 +213,8 @@ String s = " z111,c888,n222,,,g000, t333,a999,c888 ,p000 ,z111 ";
   * [微服务调用超时的处理方案](readme/call-timeout-process.md)
   
   * [设计模式六大原则](/readme/design-pattern-principle.md)
+  
+  * [CAP定理](/readme/cap.md)
 
   * sql遗漏知识点
 
